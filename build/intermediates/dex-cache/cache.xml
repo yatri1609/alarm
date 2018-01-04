@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\yatri\.android\build-cache\a85f281388ac4058818fc01fa098abc6ecbfed08\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_989600afef452bf0d4e62721d369847ca28c2ef0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatri\.android\build-cache\c5ec326f5fccb52fe3febfeb8da14d243db22959\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\pre-dexed\debug\classes_91439d117a2b5653142b3af3f22f8089c9111f6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatri\.android\build-cache\03e4e2f4da95af1d6064d4fc57a61bd21e0952eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\pre-dexed\debug\classes_476919c6cff6fa8223aba37717e14cb5d2ccbcb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatri\.android\build-cache\a85f281388ac4058818fc01fa098abc6ecbfed08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\pre-dexed\debug\classes_989600afef452bf0d4e62721d369847ca28c2ef0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yatri\.android\build-cache\c5ec326f5fccb52fe3febfeb8da14d243db22959\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_91439d117a2b5653142b3af3f22f8089c9111f6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yatri\.android\build-cache\c679421acdc00b88f4427ccf3702092eed38d8e6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2f6c12a3a87d8b0b17c8944771f809073f39336a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatri\.android\build-cache\8eed7cf1eddbc6578261349ab97845786b59fb30\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\pre-dexed\debug\classes_69928ea913cb11bd0f3e1418c4e64ad69a44ba20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatri\.android\build-cache\c679421acdc00b88f4427ccf3702092eed38d8e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\pre-dexed\debug\classes_2f6c12a3a87d8b0b17c8944771f809073f39336a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yatri\.android\build-cache\03e4e2f4da95af1d6064d4fc57a61bd21e0952eb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_476919c6cff6fa8223aba37717e14cb5d2ccbcb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yatri\.android\build-cache\8eed7cf1eddbc6578261349ab97845786b59fb30\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_69928ea913cb11bd0f3e1418c4e64ad69a44ba20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8982158748d087f4c2f53a7217b667bdd2082859">
+        <dex dex="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b248d8bf05d6632decc694f2abafd35b217136b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatri\.android\build-cache\69557d581113816ff573060f6eda6da15e78ee1a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\pre-dexed\debug\classes_ddaee81672312b04fee87f98b61ad23440b95fbe.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yatri\.android\build-cache\69557d581113816ff573060f6eda6da15e78ee1a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ddaee81672312b04fee87f98b61ad23440b95fbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yatri\.android\build-cache\8a0ce21a1288dfacedea54dd8072a1623f4e50fb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f925caf4eef910d091c87d5c77a6935025429f0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatri\.android\build-cache\7d64dbaf4a2ba8c9f51e395f12abea68ee98d8af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\pre-dexed\debug\classes_97ab60ddf8876409f00eb04185294a3847f0dbd1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yatri\.android\build-cache\7d64dbaf4a2ba8c9f51e395f12abea68ee98d8af\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_97ab60ddf8876409f00eb04185294a3847f0dbd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatri\.android\build-cache\8a0ce21a1288dfacedea54dd8072a1623f4e50fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\pre-dexed\debug\classes_f925caf4eef910d091c87d5c77a6935025429f0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatri\.android\build-cache\f65ca18733eea384ce0f4da6082342146fca89f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\pre-dexed\debug\classes_5ec7077dd3124016149b61b15ea5e420e62de7c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatri\.android\build-cache\1eadd24f3741bd59d6ccb13887a1394e159af12a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\pre-dexed\debug\classes_448d8a104e33e0d6d0dff7b14ecce3739e4e11de.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yatri\.android\build-cache\1eadd24f3741bd59d6ccb13887a1394e159af12a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_448d8a104e33e0d6d0dff7b14ecce3739e4e11de\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatri\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_409143c452fecea5db1d044f6d8b70913fc925be.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yatri\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_409143c452fecea5db1d044f6d8b70913fc925be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_83f0a0117c50f13fd4ae7157489d62fabf3a7a7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yatri\.android\build-cache\1a198f05ca332d837362a4eb0e4dfa3830bb21a5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a7ac776d63ff6f42c9f4552ed528d08ebd24d45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yatri\.android\build-cache\ef151c462620b2f70a6de32411d4dcde68fdae49\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da52f7e770f56a6f3e87e6feca786cdf414a95e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatri\.android\build-cache\1a198f05ca332d837362a4eb0e4dfa3830bb21a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\pre-dexed\debug\classes_3a7ac776d63ff6f42c9f4552ed528d08ebd24d45.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yatri\.android\build-cache\f65ca18733eea384ce0f4da6082342146fca89f2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ec7077dd3124016149b61b15ea5e420e62de7c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yatri\.android\build-cache\ef151c462620b2f70a6de32411d4dcde68fdae49\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\yatri\Downloads\Alarm-master\app\build\intermediates\pre-dexed\debug\classes_da52f7e770f56a6f3e87e6feca786cdf414a95e3.jar" />
+    </item>
+
+</items>
