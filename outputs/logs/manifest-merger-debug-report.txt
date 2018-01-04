@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml:5:5-28:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\yatri\.android\build-cache\8a0ce21a1288dfacedea54dd8072a1623f4e50fb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\yatri\.android\build-cache\03e4e2f4da95af1d6064d4fc57a61bd21e0952eb\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\yatri\.android\build-cache\f65ca18733eea384ce0f4da6082342146fca89f2\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\yatri\.android\build-cache\ef151c462620b2f70a6de32411d4dcde68fdae49\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\yatri\.android\build-cache\c679421acdc00b88f4427ccf3702092eed38d8e6\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\yatri\.android\build-cache\7d64dbaf4a2ba8c9f51e395f12abea68ee98d8af\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\yatri\.android\build-cache\69557d581113816ff573060f6eda6da15e78ee1a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\yatri\.android\build-cache\c5ec326f5fccb52fe3febfeb8da14d243db22959\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\yatri\.android\build-cache\1a198f05ca332d837362a4eb0e4dfa3830bb21a5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\yatri\.android\build-cache\1eadd24f3741bd59d6ccb13887a1394e159af12a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\yatri\.android\build-cache\8eed7cf1eddbc6578261349ab97845786b59fb30\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.salma.salmaalarm.MainActivity
+ADDED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml:15:27-74
+receiver#com.example.salma.salmaalarm.AlarmReceiver
+ADDED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml:19:19-48
+service#com.example.salma.salmaalarm.RingtonePlayingService
+ADDED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml:21:9-59
+	android:name
+		ADDED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml:21:18-56
+activity#com.example.salma.salmaalarm.PopActivity
+ADDED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml:23:9-87
+	android:noHistory
+		ADDED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml:23:47-72
+	android:name
+		ADDED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml:23:19-46
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml:25:9-27:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\yatri\.android\build-cache\c679421acdc00b88f4427ccf3702092eed38d8e6\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml:27:13-66
+	android:name
+		ADDED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml:26:13-58
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml:29:5-65
+	android:name
+		ADDED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml:29:22-63
+uses-sdk
+INJECTED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\yatri\.android\build-cache\8a0ce21a1288dfacedea54dd8072a1623f4e50fb\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\yatri\.android\build-cache\03e4e2f4da95af1d6064d4fc57a61bd21e0952eb\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\yatri\.android\build-cache\f65ca18733eea384ce0f4da6082342146fca89f2\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\yatri\.android\build-cache\ef151c462620b2f70a6de32411d4dcde68fdae49\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\yatri\.android\build-cache\a85f281388ac4058818fc01fa098abc6ecbfed08\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\yatri\.android\build-cache\c679421acdc00b88f4427ccf3702092eed38d8e6\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\yatri\.android\build-cache\7d64dbaf4a2ba8c9f51e395f12abea68ee98d8af\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\yatri\.android\build-cache\69557d581113816ff573060f6eda6da15e78ee1a\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\yatri\.android\build-cache\c5ec326f5fccb52fe3febfeb8da14d243db22959\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\yatri\.android\build-cache\1a198f05ca332d837362a4eb0e4dfa3830bb21a5\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\yatri\.android\build-cache\1eadd24f3741bd59d6ccb13887a1394e159af12a\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\yatri\.android\build-cache\8eed7cf1eddbc6578261349ab97845786b59fb30\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\yatri\.android\build-cache\8a0ce21a1288dfacedea54dd8072a1623f4e50fb\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yatri\Downloads\Alarm-master\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\yatri\.android\build-cache\8a0ce21a1288dfacedea54dd8072a1623f4e50fb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\yatri\.android\build-cache\03e4e2f4da95af1d6064d4fc57a61bd21e0952eb\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\yatri\.android\build-cache\f65ca18733eea384ce0f4da6082342146fca89f2\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\yatri\.android\build-cache\7d64dbaf4a2ba8c9f51e395f12abea68ee98d8af\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\yatri\.android\build-cache\69557d581113816ff573060f6eda6da15e78ee1a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\yatri\.android\build-cache\c5ec326f5fccb52fe3febfeb8da14d243db22959\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\yatri\.android\build-cache\1a198f05ca332d837362a4eb0e4dfa3830bb21a5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\yatri\.android\build-cache\1eadd24f3741bd59d6ccb13887a1394e159af12a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\yatri\.android\build-cache\8eed7cf1eddbc6578261349ab97845786b59fb30\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\yatri\.android\build-cache\8a0ce21a1288dfacedea54dd8072a1623f4e50fb\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\yatri\.android\build-cache\8a0ce21a1288dfacedea54dd8072a1623f4e50fb\output\AndroidManifest.xml:26:9-47
